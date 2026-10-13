@@ -1,0 +1,9 @@
+ollama>=0.4.0
+SpeechRecognition>=3.14.0
+PyAudio>=0.2.14
+edge-tts>=7.0.0
+gTTS>=2.5.0
+pygame>=2.6.0
+langdetect>=1.0.9
+google-generativeai>=0.8.0
+python-dotenv>=1.0.0
